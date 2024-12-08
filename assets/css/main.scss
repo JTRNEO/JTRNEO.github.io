@@ -17,7 +17,6 @@
 
 @import "reset";
 @import "base";
-
 @import "utilities";
 @import "animations";
 @import "tables";
@@ -27,9 +26,7 @@
 @import "navigation";
 @import "footer";
 @import "syntax";
-
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
@@ -48,62 +45,99 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
-    .paper-box-image{
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+        position: relative; // to position badges
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
-        
-        .paper-box-text{
+
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
+$scroll_offset: 2em;
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+/* Badges Container */
+.badges {
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
+    top: 0;
+    left: 0;
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+    margin-top: -1.5em;
+}
+
+/* Badge Styles */
+.badge {
+    padding: 0.25em 1em;
+    font-size: 0.8em;
+    font-weight: bold;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    border-radius: 0.25em;
+    position: relative;
+    display: inline-block;
+}
+
+/* Conference Badge */
+.conference-badge {
     background-color: #00369f;
-    font-size: .8em;
+    color: #ffffff;
+}
+
+/* Spotlight Badge */
+.spotlight-badge {
+    background-color: #fdd835;
+    color: #000000;
+}
+
+/* Links below authors */
+.paper-links {
+    margin-top: 1em;
+    a.paper-link {
+        margin-right: 1em;
+        text-decoration: none;
+        color: #00369f;
+        font-weight: bold;
+        i {
+            margin-right: 0.5em;
+        }
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 }
