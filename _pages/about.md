@@ -215,7 +215,7 @@ He is a big fan of Dota2 and Mahjong.
 </ul> -->
 
 <!-- Honors and Awards -->
-<h2>🎖 Honors and Awards</h2>
+# 🎖 Honors and Awards
 <ul>
   <li><em>Dec. 2023</em> AY2024 AI Center Fusion Research Promotion Fund (1,600,000 JPY)</li>
   <li><em>Jul. 2024</em> SPRING GX Self-directed and Integrated Project Research (250,000 JPY)</li>
@@ -227,7 +227,7 @@ He is a big fan of Dota2 and Mahjong.
 </ul>
 
 <!-- Academic Services -->
-<h2>🛠 Academic Services</h2>
+# 🛠 Academic Services
 <ul>
   <li>Reviewer: IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
   <li>Reviewer: ISPRS Journal of Photogrammetry and Remote Sensing</li>
@@ -237,3 +237,39 @@ He is a big fan of Dota2 and Mahjong.
     <a href="https://cliffbb.github.io/OEM-Fewshot-Challenge/">[Link]</a>
   </li>
 </ul>
+
+<!-- Content Section -->
+<p style="text-align: center;">
+  <div id="clustrmaps-widget" style="max-width: 20%; margin: 0 auto;">
+    <script 
+      type="text/javascript" 
+      id="clustrmaps" 
+      src="//clustrmaps.com/map_v2.js?d=uTY2AY6y6-cxWrNfdFwh2S1zspQywC0Y_DfDGQVQclc&cl=ffffff&w=a" 
+      async>
+    </script>
+    <noscript>
+      <a href="https://clustrmaps.com/site/1bj1k" title="Visitor Map">
+        <img 
+          src="//clustrmaps.com/map_v2.png?d=uTY2AY6y6-cxWrNfdFwh2S1zspQywC0Y_DfDGQVQclc&cl=ffffff&w=a" 
+          alt="Visitor Map" 
+          style="max-width: 20%; height: auto;">
+      </a>
+    </noscript>
+  </div>
+  <p style="text-align:center;">
+    &copy; Jian Song | Last updated: Dec 8, 2024
+  </p>     
+</p>
+
+<!-- Footer -->
+<footer class="footer" style="text-align: center;">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p style="color: #4A4A4A;">
+        This website template is borrowed from 
+        <a href="https://github.com/RayeRen/acad-homepage.github.io" style="color: #3273DC;">AcadHomepage</a>
+      </p>
+    </div>
+  </div>
+</footer>
+
