@@ -27,6 +27,7 @@ By combining advanced scene generation and transfer learning techniques, he aims
 He is a big fan of Dota2 and Mahjong.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>ESSD</b> (<a href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html" target="_blank">link</a>)! 
 - *2025.09*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>NeurIPS 2025</b> (<a href="https://arxiv.org/abs/2505.21089" target="_blank">link</a>)!  
 - *2025.08*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>IEEE GRSM</b> (<a href="https://arxiv.org/abs/2501.10891" target="_blank">link</a>)!
 - *2025.06*: &nbsp;🎓 Jian Song received his Ph.D. degree from <b>The University of Tokyo</b> (advised by <a href="https://naotoyokoya.com/" target="_blank">Prof. Naoto Yokoya</a>).
@@ -38,6 +39,36 @@ He is a big fan of Dota2 and Mahjong.
 - *2024.06*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>IEEE TGRS</b> (<a href="https://ieeexplore.ieee.org/document/10565926" target="_blank">link</a>)!
 
 # 📜 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">ESSD 2025</div>
+      <div class="badge spotlight-badge">IEEE GRSS Data Fusion Contest 2025</div>
+    </div>
+    <img src='images/overall.jpg' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html)
+
+  Hongruixuan Chen, **Jian Song**, Olivier Dietrich, Clifford Broni-Bediako, Weihao Xuan, Weihao Xuan, Junjue Wang, Xinlei Shao, Yimin Wei, Junshi Xia, Cuiling Lan, Konrad Schindler, Naoto Yokoya
+
+  In <em>Earth System Science Data (ESSD), 2025.</em> 
+  <span style="color: #ff4500; font-weight: bold;">*IEEE GRSS Data Fusion Contest 2025 Official Dataset* </span>
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html1" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/ChenHongruixuan/BRIGHT" title="Code">
+      <i class="fas fa-file-code"></i> Code
+    </a>
+    <a class="paper-link" href="https://github.com/ChenHongruixuan/BRIGHT" title="Data">
+      <i class="fas fa-database"></i> Data
+    </a>
+  </div>
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
