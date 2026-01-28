@@ -73,7 +73,7 @@ He is a big fan of Dota2 and Mahjong.
   <div class='paper-box-text' markdown="1">
   [Bright: a globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response](https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html)
 
-  Hongruixuan Chen, **Jian Song**, Olivier Dietrich, Clifford Broni-Bediako, Weihao Xuan, Weihao Xuan, Junjue Wang, Xinlei Shao, Yimin Wei, Junshi Xia, Cuiling Lan, Konrad Schindler, Naoto Yokoya
+  Hongruixuan Chen, **Jian Song**, Olivier Dietrich, Clifford Broni-Bediako, Weihao Xuan, Junjue Wang, Xinlei Shao, Yimin Wei, Junshi Xia, Cuiling Lan, Konrad Schindler, Naoto Yokoya
 
   <em>Earth System Science Data (ESSD), 2025.</em> 
   <span style="color: #ff4500; font-weight: bold;">*IEEE GRSS Data Fusion Contest 2025 Official Dataset* </span>
