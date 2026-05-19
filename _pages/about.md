@@ -27,6 +27,7 @@ By combining advanced scene generation and transfer learning techniques, he aims
 He is a big fan of Dota2 and Mahjong.
 
 # 🔥 News
+- *2026.05*: &nbsp;📝 One co-first-authored paper "Earth Observation for Disaster Mapping: Benchmarks, Methods, Challenges and Future Perspectives" is <b>under review</b> (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725082" target="_blank">paper</a> / <a href="https://github.com/ChenHongruixuan/AnyDisasterMapping" target="_blank">code</a>).
 - *2026.02*:  🎉🎉 One co-author paper on multimodal remote sensing change detection has been published <b>ISPRS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271626000559" target="_blank">link</a>)! 
 - *2025.12*: &nbsp;🎉🎉 One paper on sparse ICESat-2–guided calibration for monocular height estimation has been accepted by <b>ISPRS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor" target="_blank">link</a>)! 
 - *2025.11*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>ESSD</b> (<a href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html" target="_blank">link</a>)! 
@@ -40,6 +41,32 @@ He is a big fan of Dota2 and Mahjong.
 - *2024.06*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>IEEE TGRS</b> (<a href="https://ieeexplore.ieee.org/document/10565926" target="_blank">link</a>)!
 
 # 📜 Publications 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badges">
+      <div class="badge conference-badge">Under Review</div>
+    </div>
+    <img src='images/EO4DisasterMapping.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  [Earth Observation for Disaster Mapping: Benchmarks, Methods, Challenges and Future Perspectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725082)
+
+  Hongruixuan Chen<span>*</span>, <strong>Jian Song<span>*</span></strong>, Weihao Xuan<span>*</span>, Junjue Wang<span>*</span>, Heli Qi, Zeqi Zhou, Pengyu Dai, Olivier Dietrich, Erika Gutierrez, Lars Bromly, Edoardo Nemni, Yafei Ou, Jie Zhao, Zhuo Zheng, Yonghao Xu, Ronny Hänsch, Wenzhe Jiao, Marco Chini, Claudio Persello, Junshi Xia, Shijian Lu, Lixin Wang, Zhe Zhu, Evan Shelhamer, Jocelyn Chanussot, Konrad Schindler, Naoto Yokoya
+
+  <em>Under Review, 2026.</em>
+  <span style="color: #ff4500; font-weight: bold;">*The first four authors contributed equally*</span>
+
+  <div class="paper-links">
+    <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725082" title="Paper">
+      <i class="fas fa-file-pdf"></i> Paper
+    </a>
+    <a class="paper-link" href="https://github.com/ChenHongruixuan/AnyDisasterMapping" title="Code">
+      <i class="fas fa-file-code"></i> Code
+    </a>
+  </div>
+  </div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badges">
@@ -277,6 +304,7 @@ He is a big fan of Dota2 and Mahjong.
 <!-- Honors and Awards -->
 # 🎖 Fundings and Awards
 <ul>
+  <li><em>Apr. 2026</em> JSPS Grant-in-Aid for Early-Career Scientists (KAKENHI 26K21262) — “Open Synthetic Data Engine for Physics-Based Geospatial Foundation Models” (PI, Apr. 2026 – Mar. 2031, 4,550,000 JPY) <a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K21262/" target="_blank">[Link]</a></li>
 <li><em>Mar. 2025</em> RIKEN BAIHO Award — Awarded for “Development of remote sensing image synthesis technology”</li>
   <li><em>Dec. 2023</em> AY2024 AI Center Fusion Research Promotion Fund (1,600,000 JPY)</li>
   <li><em>Jul. 2024</em> SPRING GX Self-directed and Integrated Project Research (250,000 JPY)</li>
@@ -292,8 +320,10 @@ He is a big fan of Dota2 and Mahjong.
 <ul>
   <li>Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
   <li>Reviewer: IEEE Transactions on Image Processing (TIP)</li>
-  <li>Reviewer: NeurIPS 2025 (Conference on Neural Information Processing Systems)</li>
+  <li>Reviewer: NeurIPS 2025, 2026 (Conference on Neural Information Processing Systems)</li>
   <li>Reviewer: IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
+  <li>Reviewer: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>Reviewer: Engineering Applications of Artificial Intelligence (EAAI)</li>
   <li>Reviewer: ISPRS Journal of Photogrammetry and Remote Sensing</li>
   <li>Reviewer: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</li>
   <li>Reviewer: IEEE Access</li>
