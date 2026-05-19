@@ -46,7 +46,7 @@ He is a big fan of Dota2 and Mahjong.
     <div class="badges">
       <div class="badge conference-badge">Under Review</div>
     </div>
-    <img src='images/EO4DisasterMapping.png' alt="sym" width="100%">
+    <img src='images/anydisasters.png' alt="sym" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   [Earth Observation for Disaster Mapping: Benchmarks, Methods, Challenges and Future Perspectives](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725082)
@@ -54,7 +54,6 @@ He is a big fan of Dota2 and Mahjong.
   Hongruixuan Chen<span>*</span>, <strong>Jian Song<span>*</span></strong>, Weihao Xuan<span>*</span>, Junjue Wang<span>*</span>, Heli Qi, Zeqi Zhou, Pengyu Dai, Olivier Dietrich, Erika Gutierrez, Lars Bromly, Edoardo Nemni, Yafei Ou, Jie Zhao, Zhuo Zheng, Yonghao Xu, Ronny Hänsch, Wenzhe Jiao, Marco Chini, Claudio Persello, Junshi Xia, Shijian Lu, Lixin Wang, Zhe Zhu, Evan Shelhamer, Jocelyn Chanussot, Konrad Schindler, Naoto Yokoya
 
   <em>Under Review, 2026.</em>
-  <span style="color: #ff4500; font-weight: bold;">*The first four authors contributed equally*</span>
 
   <div class="paper-links">
     <a class="paper-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725082" title="Paper">
