@@ -353,7 +353,7 @@ He is a big fan of Dota2 and Mahjong.
     </noscript>
   </div>
   <p style="text-align:center;">
-    &copy; Jian Song | Last updated: Dec 8, 2025
+    &copy; Jian Song | Last updated: Jun 8, 2026
   </p>     
 </p>
 
