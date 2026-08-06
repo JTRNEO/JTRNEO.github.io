@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📌 Short Bio (<a href="CV/songjian.pdf">**CV**)
-**Jian Song** is a Postdoctoral Researcher at the [Geoinformatics Team](https://geoinformatics2018.com/), [RIKEN AIP](https://aip.riken.jp/), advised by [Prof. Naoto Yokoya](https://naotoyokoya.com/).  
+# 📌 Short Bio (<a href="CV/songjian.pdf">**CV**</a>)
+**Jian Song** is a Postdoctoral Researcher at the [Geoinformatics Team](https://geoinformatics2018.com/), [RIKEN AIP](https://aip.riken.jp/), working with [Prof. Naoto Yokoya](https://naotoyokoya.com/).  
 He received his Ph.D. from the [Machine Learning and Statistical Data Analysis Lab](https://www.ms.k.u-tokyo.ac.jp/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) in June 2025.
 
-His research centers on creating and utilizing high-fidelity synthetic 3D environments to address real-world remote sensing challenges.  
-By combining advanced scene generation and transfer learning techniques, he aims to unlock scalable global 3D understanding for applications in urban planning, environmental monitoring, and beyond.
+His research centers on procedural 3D environments and synthetic Earth observation data --- asking not only how to make simulation realistic, but **what should be simulated**: which synthetic variations actually help models transfer to the real world. His interests span synthetic-to-real transfer, multi-sensor Earth observation, and scalable global 3D understanding, with applications in urban planning, environmental monitoring, and disaster response.
 
 He is a big fan of Dota2 and Mahjong.
 
 # 🔥 News
 - *2026.05*: &nbsp;📝 One co-first-authored paper "Earth Observation for Disaster Mapping: Benchmarks, Methods, Challenges and Future Perspectives" is <b>under review</b> (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6725082" target="_blank">paper</a> / <a href="https://github.com/ChenHongruixuan/AnyDisasterMapping" target="_blank">code</a>).
+- *2026.04*: &nbsp;🚀 Started a five-year <b>JSPS KAKENHI</b> project as PI (Early-Career Scientists) — “Open Synthetic Data Engine for Physics-Based Geospatial Foundation Models” (<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-26K21262/" target="_blank">link</a>).
 - *2026.02*:  🎉🎉 One co-author paper on multimodal remote sensing change detection has been published <b>ISPRS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271626000559" target="_blank">link</a>)! 
 - *2025.12*: &nbsp;🎉🎉 One paper on sparse ICESat-2–guided calibration for monocular height estimation has been accepted by <b>ISPRS</b> (<a href="https://www.sciencedirect.com/science/article/pii/S0924271625004885?dgcid=coauthor" target="_blank">link</a>)! 
 - *2025.11*: &nbsp;🎉🎉 One co-authored paper has been accepted by <b>ESSD</b> (<a href="https://essd.copernicus.org/articles/17/6217/2025/essd-17-6217-2025.html" target="_blank">link</a>)! 
@@ -324,7 +324,7 @@ He is a big fan of Dota2 and Mahjong.
   <li>Reviewer: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
   <li>Reviewer: Engineering Applications of Artificial Intelligence (EAAI)</li>
   <li>Reviewer: ISPRS Journal of Photogrammetry and Remote Sensing</li>
-  <li>Reviewer: IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</li>
+  <li>Reviewer: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</li>
   <li>Reviewer: IEEE Access</li>
   <li>Co-organizer: IEEE GRSS Data Fusion Contest 2025 
     <a href="https://www.grss-ieee.org/community/technical-committees/2025-ieee-grss-data-fusion-contest/" target="_blank">[Link]</a>
@@ -353,7 +353,7 @@ He is a big fan of Dota2 and Mahjong.
     </noscript>
   </div>
   <p style="text-align:center;">
-    &copy; Jian Song | Last updated: Jun 8, 2026
+    &copy; Jian Song | Last updated: Aug 6, 2026
   </p>     
 </p>
 
